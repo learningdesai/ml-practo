@@ -1,0 +1,6 @@
+
+Auther Deatils:
+https://www.superdatascience.com/sds-002-machine-learning-recommender-systems-and-the-future-of-data-with-hadelin-de-ponteves/
+
+IMP related things
+https://www.quora.com/What-are-the-most-important-machine-learning-techniques-to-master-at-this-time
